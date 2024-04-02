@@ -1,0 +1,9 @@
+{
+    "subscription_id": "02b7e6b7-ba20-4190-b1b0-e241b56202b6",
+    "resource_group": "LAB-IA-900-treinamento",
+    "workspace_name": "laboratorioai900teste",
+    "online_endpoint": [
+        "laboratorioai900teste",
+        "laboratorioai900teste-pxevc"
+    ]
+}
